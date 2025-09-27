@@ -1,3 +1,3 @@
 {
-    "code": "#include <iostream>\nint main() { std::cout << \"Hello from C++!\"; return 0; }"
+    "code": "#include <iostream>\nint main() { std::cout << \"Hello from Local ARVR Server\"; return 0; }"
 }
